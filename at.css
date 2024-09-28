@@ -1,0 +1,20 @@
+*{ padding: 0px;margin: 0px;}
+.main{background: linear-gradient(to left, beige, white);
+    width: 100%;height: 1280px;}
+.main .one{width: 100%;height: 40px; background: #D4AF35;}
+.two{width: 100%;}
+.two .logo{float: left;margin-top: 10px;width: 15%;height: 120px;}
+.name{float: left;width: 600px;font-size: 22px;padding-top: 10px;
+    margin-left: 50px;font-weight: bold;color: #1C4A7E ;}
+.main .three{margin-top: 140px; width: 100%;
+    height: 40px; background: #1C4A7E;}
+.three .pn{padding: 6px;text-align: center;font-size: 24px;
+    font-weight: bold; color: #D4AF35; letter-spacing: 1.2px;}
+.mainpic{width: 100%;height: 700px;opacity: .8;}
+.t h2{float: left;margin-top: 50px;font-size: 40px; font-family: 'Times New Roman';
+    font-weight: bold;margin-left: 150px;color: #1C4A7E;}
+.calib{float: left;width: 250px;height: 45px;margin-top: -40px ;
+    margin-left: 600px; border: 2px solid #1C4A7E ; font-size: 40px;
+    text-align: center;font-weight: bold;color: #D4AF35;}
+.cpy{ position: absolute; text-align: center; width: 100%;
+    color: #1C4A7E; font-size: 35px;}
